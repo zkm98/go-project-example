@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/Moonlight-Zhao/go-project-example/cotroller"
-	"github.com/Moonlight-Zhao/go-project-example/repository"
+	"github.com/zkm98/go-project-example/cotroller"
+	"github.com/zkm98/go-project-example/repository"
 	"gopkg.in/gin-gonic/gin.v1"
 	"os"
 )

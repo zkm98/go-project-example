@@ -2,8 +2,9 @@ package service
 
 import (
 	"errors"
-	"github.com/Moonlight-Zhao/go-project-example/repository"
 	"sync"
+
+	"github.com/zkm98/go-project-example/repository"
 )
 
 type PageInfo struct {
